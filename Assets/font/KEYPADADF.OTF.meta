@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5c2e7eaba2341964988008b15960af16
+timeCreated: 1498328556
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Keypad ADF
+  fontNames:
+  - Keypad ADF
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
